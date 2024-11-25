@@ -8,7 +8,7 @@
 2. Add **forked repo** as submodule to desired folder in your existent ansible repo (for example 3d/kubespray):
 
    ```ShellSession
-   git submodule add https://github.com/YOUR_GITHUB/kubespray.git kubespray
+   git submodule add https://github.com/YOUR_GITHUB/kubespray.git 3d/kubespray
    ```
 
    Git will create `.gitmodules` file in your existent ansible repo:
